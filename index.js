@@ -3,7 +3,7 @@ var firebaseConfig = {
     apiKey: AIzaSyAgcMf7umnASf0vSmuKWJlVSIbe3K0tAfA ,
   authDomain: chess-game-a8036.firebaseapp.com ,
   databaseURL: https://chess-game-a8036-default-rtdb.firebaseio.com ,
-  projectId: chess-game-a8036,
+  projectId: chess-game-a8036 ,
   storageBucket: chess-game-a8036.appspot.com ,
   messagingSenderId: 481285790558 ,
   measurementId: G-ZJ3RHK6632 ,
