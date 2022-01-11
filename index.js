@@ -1,13 +1,13 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: AIzaSyAgcMf7umnASf0vSmuKWJlVSIbe3K0tAfA ,
-  authDomain: chess-game-a8036.firebaseapp.com ,
-  databaseURL: https://chess-game-a8036-default-rtdb.firebaseio.com ,
-  projectId: chess-game-a8036 ,
-  storageBucket: chess-game-a8036.appspot.com ,
-  messagingSenderId: 481285790558 ,
-  measurementId: G-ZJ3RHK6632 ,
-  appId: 1:481285790558:web:3c2218fcedb674f0f94dcf ,
+     apiKey: "AIzaSyDIdSpACQbc1-_JICLQ6gRjl_YrX25eiOA",
+  authDomain: "mini-diary-organization.firebaseapp.com",
+  databaseURL: "https://mini-diary-organization-default-rtdb.firebaseio.com",
+  projectId: "mini-diary-organization",
+  storageBucket: "mini-diary-organization.appspot.com",
+  messagingSenderId: "542075449644",
+  appId: "1:542075449644:web:26133a6448c78f79927c89",
+  measurementId: "G-26RQZMG8W6"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
